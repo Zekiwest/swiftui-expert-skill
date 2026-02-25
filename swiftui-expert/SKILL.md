@@ -1,5 +1,5 @@
 ---
-name: "swiftui-expert-skill"
+name: "swiftui-expert"
 description: "SwiftUI best practices, pitfalls, and modern APIs. Invoke when user asks SwiftUI UI, state, navigation, lists, sheets, performance, or accessibility help."
 ---
 

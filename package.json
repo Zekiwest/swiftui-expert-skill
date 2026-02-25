@@ -1,0 +1,23 @@
+{
+  "name": "swiftui-expert-skill",
+  "version": "1.0.0",
+  "description": "Agent skill for SwiftUI best practices, pitfalls, and modern APIs",
+  "main": "swiftui-expert/SKILL.md",
+  "keywords": [
+    "skill",
+    "agent",
+    "swiftui",
+    "ios",
+    "apple",
+    "ui"
+  ],
+  "author": "Zekiwest",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zekiwest/swiftui-expert-skill.git"
+  },
+  "files": [
+    "swiftui-expert/"
+  ]
+}
